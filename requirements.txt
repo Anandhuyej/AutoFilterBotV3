@@ -1,4 +1,4 @@
-https://github.com/pyrogram/pyrogram/archive/develop.zip
+pip3 install -U https://github.com/pyrogram/pyrogram/archive/develop.zip
 tgcrypto==1.2.2
 pymongo[srv]==3.11.4
 motor==2.4.0
